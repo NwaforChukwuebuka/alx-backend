@@ -1,0 +1,6 @@
+# 0x01-caching
+FIFO
+LIFO
+LRU
+MRU
+LFU
